@@ -18,10 +18,8 @@ Repositorio basado en la [plantilla oficial del curso](https://github.com/MIA-PI
 
 | Nombre | GitHub | Correo |
 |--------|--------|--------|
-| William Alexis Rosero Campos | [@alexisrosero21](https://github.com/alexisrosero21) | *por completar* |
-| Integrante 2 | | |
-| Integrante 3 | | |
-| Integrante 4 | | |
+| William Alexis Rosero Campos | [@alexisrosero21](https://github.com/alexisrosero21) | *warosero@icesi.edu.co* |
+
 
 > Actualizar esta tabla cuando se confirmen los demás integrantes. Si el equipo es de menos de 4 personas, eliminar las filas vacías.
 
